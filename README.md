@@ -1,4 +1,4 @@
-# Robotics 2nd homework
+# Robotics 3nd homework
 Light following arduino project
 # Problem
 This project on a larger and more sensitive scale could be adapted to be used for navigation towards a light, for example when in a cave it could lead to where the outside is visible, or it can be used to make a robot that follows light. It can also be used to track the sun's cycle
