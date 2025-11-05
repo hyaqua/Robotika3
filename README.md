@@ -25,6 +25,7 @@ The design of this project is comprised of two main parts, tracking and sensitiv
 <img width="2592" height="2003" alt="Screenshot 2025-11-04 at 11-29-51 Circuit design Mighty Amur - Tinkercad" src="https://github.com/user-attachments/assets/5d76c293-d40e-4bae-aab8-09f46396d871" />
 
 # Demo video
+https://github.com/user-attachments/assets/4eac9e3b-c071-46fd-842c-1825cee22b43
 
 # Encountered problems
 - Servo has only a range 150 degrees, where I thought it would have 180, which messed up some of my earlier design
